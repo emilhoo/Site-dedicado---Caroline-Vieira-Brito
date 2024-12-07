@@ -13,7 +13,6 @@
     font-size: 20px;
 }
 
-
 .body__img {
 
     position: absolute;
@@ -28,7 +27,7 @@
 
     width: 100%;
     max-width: 1100px;
-    height: 3600px;
+    height: 4000px;
     background-color: gainsboro;
     border-radius: 40px;
     z-index: 1;
